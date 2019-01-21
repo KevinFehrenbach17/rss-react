@@ -76,6 +76,12 @@ header {
   margin-top: 12rem;
   width: 30%;
   border-radius: 50%;
+  box-shadow: 2.5px 5px 4px 5px #171717;
+}
+
+.logo :hover{
+  color: cyan;
+  box-shadow: 5px 5px 25px 5px rgba(63,63,255,1) inset;
 }
 
 h2 {
@@ -122,7 +128,7 @@ p {
   border-radius: 17px;
 }
 
-.social a :hover{
+.social :hover{
   color: cyan;
   box-shadow: 2.5px 2.5px 12.5px 2.5px rgba(63,63,255,1) inset;
 }

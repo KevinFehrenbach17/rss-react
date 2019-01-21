@@ -41,6 +41,9 @@ export class Bed extends Component {
   }
 
   const cardStyle = {
+    borderStyle: 'solid',
+    borderSize: '30px',
+    borderColor: 'rgba(63,63,255,1)',
     borderRadius: '17px'
   }
 
